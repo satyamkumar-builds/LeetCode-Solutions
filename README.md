@@ -7,5 +7,6 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/satyamkumar-builds/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/satyamkumar-builds/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
